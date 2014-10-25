@@ -1,7 +1,7 @@
 cleaning-data-project
 =====================
 
-I just used one script to carry out the analysis, which first combines the activity labels (activity_labels.txt and y_test.txt) and subject information (subject_test.txt) with the data for the test set (x_test.txt), and also labels each column of data, using the features.txt file. 
+I used one script to carry out the analysis, which first combines the activity labels (activity_labels.txt and y_test.txt) and subject information (subject_test.txt) with the data for the test set (x_test.txt), and also labels each column of data, using the features.txt file. 
 
 Then the script does the same for the train data. 
 
