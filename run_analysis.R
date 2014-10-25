@@ -6,7 +6,7 @@ activity.labels <- read.table("activity_labels.txt")
 test.x <- read.table("X_test.txt")
 test.y <- read.table("y_test.txt")
 test.subject.list <- read.table("subject_test.txt")
-features <- read.table("features.txt"
+features <- read.table("features.txt")
 
 
 names(activity.labels) <- c("act", "activity")
